@@ -1,0 +1,10 @@
+config/config.php
+
+ change admin mail id 
+
+
+admin login
+ admin@admin.com
+
+
+ 
